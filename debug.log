@@ -1,0 +1,4 @@
+[0424/094910.096:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Google\Chrome\reports: Access is denied. (0x5)
+[0424/094910.361:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Google\Chrome\reports: Access is denied. (0x5)
+[0424/094910.363:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0424/094911.566:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
